@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TalkandPaint.iml" filepath="$PROJECT_DIR$/TalkandPaint.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/talk-paint.iml" filepath="$PROJECT_DIR$/talk-paint.iml" />
     </modules>
   </component>
 </project>

@@ -13,7 +13,7 @@ class InteractionImpl : ScreenInteraction, VoiceInteraction {
     private var mCanvas : Canvas?=null
     private val mBrushPaint = Paint()
     private val mBackgroundPaint = Paint()
-    private var mBrushWidth: Float = 4.0F
+    private var mBrushWidth: Float = 7.0F
 
     override fun setWeight(weight: Float) {
         mBrushWidth = weight

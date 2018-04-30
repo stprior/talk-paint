@@ -4,7 +4,7 @@ import org.junit.Test
 import org.junit.Assert
 
 /**
- * Created by Sarah on 01/11/2017.
+ * Created by Stephen on 01/11/2017.
  */
 class TestColourRecogniser {
 
